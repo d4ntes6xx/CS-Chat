@@ -1,0 +1,42 @@
+# Build artifacts
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# User settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz
+
+# Specific projects
+ChatServer/bin/
+ChatServer/obj/
+ChatClient/bin/
+ChatClient/obj/
+
+# dotnet
+*.lock.json
+*.nupkg
+packages/
