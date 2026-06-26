@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/cs-chat/">
+    <Project Path="ChatClient/ChatClient.csproj" />
+    <Project Path="ChatServer/ChatServer.csproj" />
+  </Folder>
+</Solution>
